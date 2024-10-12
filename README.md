@@ -1,9 +1,5 @@
 ### Hey there! 👋 I'm Temoso Phokane
 
-Have you ever stared at a blank screen, brimming with ideas but unsure how to translate them into the digital world? That's me, Temoso Phokane, a wide-eyed aspiring coder on a thrilling quest to unlock the magic of programming.
-
-I may be a newbie at the foot of the coding mountain, but my thirst for knowledge and boundless enthusiasm fuel my every step. I'm here to learn, grow, and collaborate with other passionate programmers on this incredible journey. So, if you're a seasoned developer or a fellow beginner, feel free to say hello and share your coding wisdom!
-
 **What keeps me curious?**
 
 * Currently diving deep into the world of Java and SQL.
@@ -23,7 +19,7 @@ I'm always looking to connect with other programmers, especially beginners like 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
